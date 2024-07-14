@@ -124,7 +124,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
-If you have any questions or need further assistance, feel free to contact [Your Name] at [Your Email].
